@@ -23,5 +23,6 @@ input.close()
 #D:\anaconda\Lib\site-packages\matplotlib\mpl-data\fonts\ttf 字体路径
 #######
 nx.draw(G,  with_labels=True, node_size=2800, bold = True)
+nx.draw(G,  with_labels=True, node_size=2800, bold = True)
 plt.savefig('d:/plot123_8.png', dpi=300)
 plt.show()
